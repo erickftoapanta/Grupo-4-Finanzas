@@ -1,2 +1,2 @@
-# Dominio-Grupo-4-Finanzas
-Análisis y modelado del comportamiento de precios en activos digitales.
+# Grupo-4-Finanzas
+AnálisiS del comportamiento de precios en indices bursatiles.
